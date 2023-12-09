@@ -6,6 +6,7 @@
 #  comments_count         :integer
 #  email                  :string           default(""), not null
 #  encrypted_password     :string           default(""), not null
+#  image                  :string
 #  likes_count            :integer
 #  private                :boolean
 #  remember_created_at    :datetime
